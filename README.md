@@ -12,6 +12,6 @@ Hi there 👋
 
 🕹 Mis aficiones más allá del mundo de la programación son principalmente el entrenamiento de fuerza, el boxeo y participar en competiciones de fuerza.
 
-📧 Mi correo es edsonaristiguieta@gmail.com y mi LinkedIn es https://www.linkedin.com/in/edson-aristiguieta-vidal/.
+📧 Mi correo es edsonaristiguieta@gmail.com.
 
 
