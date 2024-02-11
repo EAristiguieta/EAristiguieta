@@ -14,10 +14,6 @@ Hi there 👋
 
 📧 Contacto: edsonaristiguieta@gmail.com.
 
-<h2>Proyectos </h2>
-
-
-[Boston post](https://github.com/EAristiguieta/Restaurant_Project)
 
 <h2>Tecnologias </h2>
 
@@ -35,7 +31,10 @@ Hi there 👋
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="50">](https://git-scm.com/)
 
 
+<h2>Proyectos </h2>
 
+
+[Boston post](https://github.com/EAristiguieta/Restaurant_Project)
 
 
 
