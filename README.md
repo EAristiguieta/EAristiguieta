@@ -32,7 +32,9 @@ Hi there 👋
 
 
 <h2>Proyectos </h2>
-JavaScript / Node.js / Express.js / MySQL
+<p>
+  JavaScript / Node.js / Express.js / MySQL
+</p>
 
 [Boston post](https://github.com/EAristiguieta/Restaurant_Project)
 
