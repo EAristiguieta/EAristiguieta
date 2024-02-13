@@ -8,7 +8,7 @@ Hi there 👋
 
 ⚡ He adquirido conocimientos sobre maquetación web en: HTML5, CSS3, Flexbox, Grid, diseño web responsive, SASS y Bootstrap.
 
-💻 Actualmente, me estoy sumergiendo en el fascinante mundo de Next.js y el Diseño UX/UI, ampliando mis conocimientos y buscando nuevas formas de crear experiencias web impactantes y accesibles.
+💻 Actualmente, me estoy sumergiendo en el fascinante mundo de Next.js,Diseño UX/UI y Taildwind CSS, ampliando mis conocimientos y buscando nuevas formas de crear experiencias web impactantes y accesibles.
 
 🕹Fuera del ámbito de la programación, me apasiona el entrenamiento de fuerza y el boxeo. No hay mejor sensación que superar mis límites y participar en competiciones de fuerza, donde la determinación y el esfuerzo se unen para alcanzar grandes logros.
 
