@@ -33,7 +33,13 @@ Hi there 👋
 
 <h2>Proyectos </h2>
 
-[Boston post](https://github.com/EAristiguieta/Restaurant_Project)
+- [Kankoo](https://github.com/EAristiguieta/Kankoo_Project)
+
+<p>
+  JavaScript / React / Node.js / MySQL
+</p>
+
+- [Boston post](https://github.com/EAristiguieta/Restaurant_Project)
 
 <p>
   JavaScript / Node.js / Express.js / MySQL
