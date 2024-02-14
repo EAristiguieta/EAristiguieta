@@ -32,12 +32,18 @@
 
 <h2>Proyectos </h2>
 
+<p>App de guias turisticas</p>
+
 - [Kankoo](https://github.com/EAristiguieta/Kankoo_Project)
 
 <p>
   JavaScript / React / Node.js / MySQL
 </p>
 
+<br>
+
+  <p>Restaurant  App </p>
+  
 - [Boston post](https://github.com/EAristiguieta/Restaurant_Project)
 
 <p>
