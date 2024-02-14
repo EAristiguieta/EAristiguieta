@@ -52,6 +52,15 @@
   JavaScript / Node.js / Express.js / MySQL
 </p>
 
+<br>
+
+  <p>Calculadora con Vanilla.js </p>
+  
+- [Classic Calculator](https://earistiguieta.github.io/ClassicCalculator/)
+
+<p>
+  JavaScript / Html / Sass 
+</p>
 
 
 
