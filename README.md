@@ -10,7 +10,7 @@ Hi there 👋
 
 💻 Actualmente, me estoy sumergiendo en el fascinante mundo de Next.js,Diseño UX/UI y Taildwind CSS, ampliando mis conocimientos y buscando nuevas formas de crear experiencias web impactantes y accesibles.
 
-🕹Fuera del ámbito de la programación, me apasiona el entrenamiento de fuerza y el boxeo. No hay mejor sensación que superar mis límites y participar en competiciones de fuerza, donde la determinación y el esfuerzo se unen para alcanzar grandes logros.
+🕹Fuera del ámbito de la programación, me apasiona el entrenamiento de fuerza y el boxeo. No hay mejor sensación que superar mis límites participando en competiciones de fuerza, donde mi determinación y esfuerzo juegan un papel clave, además que me encanta la sensación de adrenalina que se alcanza.
 
 📧 Contacto: edsonaristiguieta@gmail.com.
 
