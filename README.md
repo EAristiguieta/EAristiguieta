@@ -7,9 +7,12 @@
 
 ⚡ He adquirido conocimientos sobre maquetación web en: HTML5, CSS3, Flexbox, Grid, diseño web responsive, SASS y Bootstrap.
 
-💻 Actualmente, me estoy sumergiendo en el fascinante mundo de Next.js,Diseño UX/UI y Taildwind CSS, ampliando mis conocimientos y buscando nuevas formas de crear experiencias web impactantes y accesibles.
+🎓 Me sumergí en el gremio de la programación mediante el Bootcamp de Full-Stack Web Developer con la escuela tecnológica Socratech. 
 
-🏅Fuera del ámbito de la programación, me apasiona el entrenamiento de fuerza y el boxeo. No hay mejor sensación que superar mis límites participando en competiciones de fuerza, donde mi determinación y esfuerzo juegan un papel clave, además que me encanta la sensación de adrenalina que se alcanza.
+💻 Actualmente, estoy ampliando mis conocimientos en React con Next.js aparte de reforzar mis conocimientos con la experiencia de usuario con formaciones en Diseño UX/UI, buscando  así nuevas formas de crear experiencias web impactantes y accesibles.
+
+🏅Fuera del ámbito de la programación, me apasiona el entrenamiento de fuerza y el boxeo, dos disciplinas que me han enseñado el valor del esfuerzo continuo y la superación personal.  Compito en ambas disciplinas cosa que me encanta por la sensación de adrenalina que se alcanza al hacerlo.
+
 
 📧 Contacto: edsonaristiguieta@gmail.com.
 
