@@ -18,7 +18,7 @@
 
 📑 Enlace a mi: [Cv](https://www.figma.com/file/DwnvQlCEU9oKQoXg5IBvZv/Cv?type=design&node-id=0-1&mode=design&t=eIii9YbJUqvc2rH2-0)  
 
-💼 Portfolio:  [<img src="https://github.com/EAristiguieta/EAristiguieta/assets/147413490/3a4f9ace-7437-4486-b640-95b3677fa132" width="20">](https://portfolio-vbp4.vercel.app/)
+💼 Portfolio:  [<img src="https://github.com/EAristiguieta/EAristiguieta/assets/147413490/3a4f9ace-7437-4486-b640-95b3677fa132" width="30">](https://portfolio-vbp4.vercel.app/)
 
 
 
